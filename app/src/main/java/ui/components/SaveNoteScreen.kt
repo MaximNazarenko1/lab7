@@ -28,8 +28,9 @@ import com.topic2.android.notes.domain.model.NoteModel
 import com.topic2.android.notes.routing.NotesRouter
 import com.topic2.android.notes.routing.Screen
 import com.topic2.android.notes.util.fromHex
-import com.topic2.android.notes.viewmodel.MainViewModel
+
 import kotlinx.coroutines.launch
+import screens.MainViewModel
 
 
 @Composable
