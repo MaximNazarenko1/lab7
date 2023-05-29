@@ -1,4 +1,4 @@
-package com.topic2.android.notes.viewmodel
+package screens
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
